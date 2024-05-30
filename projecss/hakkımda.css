@@ -1,0 +1,59 @@
+.navbar-area {
+  position: fixed;
+  width: 100%;
+  z-index: 3;
+
+}
+.nav-link {
+  text-align: center;
+  justify-content: center;
+  font-weight: 500;
+ 
+  color: #fff ;
+}
+
+
+.navbar-area .scrolled {
+  background-color: #5dc3bf;
+  top: 0;
+  width: 100%;
+  z-index: 3000;
+}
+
+
+
+
+.swiper-ser {
+  overflow: hidden;
+  vertical-align: middle;
+  margin-top: 60px;
+}
+
+ .swiper-ser .ser-img  {
+  width: 30%;
+  height: 30%;
+  cursor: grap;
+
+}
+.swiper-ser .ser-img:hover {
+  width: 60%;
+  height: 60%;
+  cursor: grap;
+}
+
+
+.who-card {
+  display: inline-block;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 18px;
+  margin-left: 30% ;
+  box-sizing: border-box;
+  background-color: rgb(238, 206, 164);
+  padding-left: 20px;
+  border-radius: 20px;
+  margin-top: 200px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  align-items: center;
+  justify-content: center;
+}
